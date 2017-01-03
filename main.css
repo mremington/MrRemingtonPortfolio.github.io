@@ -73,6 +73,11 @@ aside#hobbies {
 	margin-bottom: 20px;
 }
 
+aside#hobbies h3{
+	font-family:Arial, Helvetica, sans-serif;
+	color: red;
+}
+
 footer#pageFooter {
 	clear: both;
 	border-top: 2px solid #7f7f7f;
